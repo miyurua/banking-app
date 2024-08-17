@@ -11,7 +11,7 @@ const Home = () => {
           type="greeting"
           title={"Welcome"}
           subtext={
-            "Access and manage your account and transactions effectively."
+            "Access and manage your account and transactions effectively ."
           }
           user={loggedIn?.firstName || "Guest"}
         />
